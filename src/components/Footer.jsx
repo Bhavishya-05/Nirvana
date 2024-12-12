@@ -27,7 +27,7 @@ const Footer = () => {
             <div className='w-full md:w-1/3'>
             <h3 className='text-white text-lg font-bold
                  mb-4'>Subscribe to our newsletter</h3>
-                 <p className='text-gray-400 mb-4 max-w-80'>The latest news, articles, and resources, sent to  your
+                 <p className='text-gray-400 mb-4 max-w-90'>The latest news, articles, and resources, sent to  your
                     inbox weekly.
                  </p>
                  <div className='flex flex-col gap-2 lg:flex-row'>
