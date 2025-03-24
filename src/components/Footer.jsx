@@ -40,7 +40,7 @@ const Footer = () => {
       </div>
       <div className='border-t border-gray-700 py-4 mt-10
        text-center text-gray-500'>
-        Copyright 2024 @ Nirvana. All Rights Reserved.
+        Copyright 2025 @ Nirvana. All Rights Reserved.
       </div>
     </div>
   )
