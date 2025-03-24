@@ -20,7 +20,7 @@ const Footer = () => {
                  <ul className='flex flex-col gap-2 text-gray-400'>
                     <a href="#Header" className='hover:text-white'>Home</a>
                     <a href="#About" className='hover:text-white'>About Us</a>
-                    <a href="#Contact" className='hover:text-white'>Contact Us</a>
+                    <a href="mailto:nirvana-real@gmail.com" className='hover:text-white'>Contact Us</a>
                     <a href="#" className='hover:text-white'>Privacy Policy</a>
                  </ul>
             </div>
